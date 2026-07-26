@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Friends Snooker Club</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+
+<header>
+
+<nav>
+
+<h2 class="logo">
+🎱 Friends Snooker Club
+</h2>
+
+<ul>
+
+<li><a href="#">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#tables">Tables</a></li>
+
+<li><a href="#services">Services</a></li>
+
+<li><a href="#gallery">Gallery</a></li>
+
+<li><a href="#booking">Booking</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<!-- ================= HERO ================= -->
+
+<section class="hero">
+
+<h1>Welcome To Friends Snooker Club</h1>
+
+<p>
+
+Professional Snooker Experience with Premium Tables,
+Free WiFi, Air Conditioning and Exciting Tournaments.
+
+</p>
+
+<a href="#booking">
+Book Your Table
+</a>
+
+</section>
+
+<!-- ================= ABOUT ================= -->
+
+<section id="about">
+
+<h2>About Our Club</h2>
+
+<p>
+
+Friends Snooker Club offers a premium environment for
+snooker lovers. Our club features international-standard
+snooker tables, comfortable seating, refreshments,
+high-speed WiFi, and regular tournaments.
+
+</p>
+
+</section>
+
+<!-- ================= TABLES ================= -->
+
+<section id="tables">
+
+<h2>Our Snooker Tables</h2>
+
+<div class="table-box">
+
+<div class="table-card">
+
+<img src="images/table1.jpg" alt="Professional Table">
+
+<h3>Professional Table</h3>
+
+<p>
+International quality table for professional players.
+</p>
+
+</div>
+
+<div class="table-card">
+
+<img src="images/table2.jpg" alt="VIP Table">
+
+<h3>VIP Table</h3>
+
+<p>
+
+Luxury playing area with premium lighting.
+
+</p>
+
+</div>
+
+<div class="table-card">
+
+<img src="images/table3.jpg" alt="Tournament Table">
+
+<h3>Tournament Table</h3>
+
+<p>
+
+Specially maintained for championships.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= SERVICES ================= -->
+
+<section id="services">
+
+<h2>Club Services</h2>
+
+<div class="service-box">
+
+<div>
+
+<i class="fa-solid fa-trophy"></i>
+
+<h3>Tournaments</h3>
+
+<p>
+Weekly & Monthly Championships
+</p>
+
+</div>
+
+<div>
+
+<i class="fa-solid fa-wifi"></i>
+
+<h3>Free WiFi</h3>
+
+<p>
+
+Play a Full Frame and Get
+30 Minutes FREE WiFi.
+
+</p>
+
+</div>
+
+<div>
+
+<i class="fa-solid fa-mug-hot"></i>
+
+<h3>Cafe</h3>
+
+<p>
+
+Tea, Coffee, Cold Drinks & Snacks
+
+</p>
+
+</div>
+
+<div>
+
+<i class="fa-solid fa-star"></i>
+
+<h3>Century Club</h3>
+
+<p>
+
+Special Rewards for Century Break Players
+
+</p>
+
+</div>
+
+<div>
+
+<i class="fa-solid fa-snowflake"></i>
+
+<h3>Air Conditioned Hall</h3>
+
+<p>
+
+Comfortable Environment
+
+</p>
+
+</div>
+
+<div>
+
+<i class="fa-solid fa-car"></i>
+
+<h3>Free Parking</h3>
+
+<p>
+
+Safe & Secure Parking Facility
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= GALLERY ================= -->
+
+<section id="gallery">
+
+<h2>Club Gallery</h2>
+
+<div class="gallery">
+
+<img src="images/gallery1.jpg">
+
+<img src="images/gallery2.jpg">
+
+<img src="images/gallery3.jpg">
+
+<img src="images/gallery4.jpg">
+
+<img src="images/gallery5.jpg">
+
+<img src="images/gallery6.jpg">
+
+</div>
+
+</section>
+
+<!-- ================= BOOKING ================= -->
+
+<section id="booking">
+
+<h2>Book Your Table</h2>
+
+<form>
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Email">
+
+<input type="tel" placeholder="Phone Number">
+
+<input type="date">
+
+<select>
+
+<option>Select Table</option>
+
+<option>Professional Table</option>
+
+<option>VIP Table</option>
+
+<option>Tournament Table</option>
+
+</select>
+
+<button type="submit">
+
+Book Now
+
+</button>
+
+</form>
+
+</section>
+
+<!-- ================= CONTACT ================= -->
+
+<section id="contact">
+
+<h2>Contact Us</h2>
+
+<p>
+
+📍 Friends Snooker Club
+
+</p>
+
+<p>
+
+📞 +92 315 9664930
+
+</p>
+
+<p>
+
+📧 friendsclub@gmail.com
+
+</p>
+
+<p>
+
+🕙 Open Daily: 10 AM – 2 AM
+
+</p>
+
+</section>
+
+<!-- ================= FOOTER ================= -->
+
+<footer>
+
+<p>
+
+© 2026 Friends Snooker Club.
+All Rights Reserved.
+
+</p>
+
+</footer>
+
+</body>
+</html>
